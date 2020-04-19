@@ -2,7 +2,8 @@
 Mit Regex Dateiinhalte verändern
 
 Typisch ist immer der Umstand, wenn ein „Werkzeug“ (Software) nicht existiert – dann schafft man sich das 
-„Werkzeug“ selbst. In diesen Fall war Delphi7 hierbei sehr hilfreich.  
+„Werkzeug“ selbst.  
+In diesen Fall war Delphi7 hierbei sehr hilfreich.  
 
 ➢ Suchen und Ersetzen von Begriffen duch beliebige Texte via Perl Regular Expressions (PRE)  
 ➢ Suchen und Ersetzen von Begriffen duch spezielle Parameter  
